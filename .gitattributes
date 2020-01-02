@@ -1,0 +1,10 @@
+* text=auto
+*.js text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+.eslintignore text eol=lf
+.eslintrc text eol=lf
+.gitattributes eol=lf
+.gitignore text eol=lf
+.prettierrc text eol=lf
+.prettierignore text eol=lf
